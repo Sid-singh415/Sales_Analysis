@@ -60,6 +60,31 @@ This repository showcases a complete data analysis and visualization project inv
    - Explore visualizations and use filters for dynamic insights
 
 ---
+## 📈 Key Insights
+
+Here are some key business insights extracted from the sales dashboard:
+
+- **Top Performing Region**:  
+  The **West region** consistently led in total sales and had the highest number of units sold across all quarters.
+
+- **Best-Selling Category**:  
+  The **Technology** category generated the most revenue, with **Phones and Accessories** being the most profitable sub-categories.
+
+- **Sales Trend Over Time**:  
+  Sales peaked in the **4th quarter**, indicating a possible seasonal pattern or successful end-of-year promotions.
+
+- **Underperforming Segments**:  
+  The **Home Office** customer segment had significantly lower sales compared to **Corporate** and **Consumer** segments.
+
+- **Profitability vs Quantity Sold**:  
+  Some regions sold more units but didn't generate proportionate profit — indicating a need to assess **pricing strategy** or **discount policies**.
+
+- **Shipping Mode Impact**:  
+  **Standard Class** was the most commonly used shipping mode, but **Second Class** deliveries showed slightly higher profitability.
+
+---
+
+These insights can help stakeholders focus on high-performing regions, optimize product-category strategies, and identify areas for cost reduction or targeted marketing.
 
 ## 📣 Author
 
